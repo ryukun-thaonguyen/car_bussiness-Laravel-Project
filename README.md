@@ -11,7 +11,7 @@ user
 ======
 admin
 ======
-![thumb7](./intro/admin1.png)
+![thumb7](./intro/admin1.PNG)
 ![thumb8](./intro/admin2.png)
 ![thumb9](./intro/admin3.png)
 ![thumb10](./intro/admin4.png)
